@@ -6,7 +6,7 @@
         <li class="here"><a href="#">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Work</a></li>
-        <button class="secondary">Get in touch</button>
+        <button class="secondary">Action</button>
       </ul>
     </nav>
   </header>
